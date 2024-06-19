@@ -30,7 +30,7 @@ include_once 'koneksi.php';
                     <div class="mb-3">
                         <label for="email" class="form-label">Email</label>
                         <input type="email" class="form-control" id="email" name="password" value="<?= $row['email']?>" required>
-                        <div class="invalid-feedback">email harus diisi atau format tidak sesuai.</div>
+                        <div class="invalid-feedback">Email harus diisi atau format tidak sesuai.</div>
                     </div>
                     <div class="mb-3">
                         <label for="alamat" class="form-label">Alamat</label>
