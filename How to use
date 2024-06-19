@@ -1,0 +1,9 @@
+Buatlah sebuah tabel dengan nama ( users ) dengan mengikuti data dibawah ini
+- id (primery key)
+- nama
+- password
+- email
+- alamat
+- no_hp
+
+Note : Sesuaikan tipe datanya pada setiap kolom
